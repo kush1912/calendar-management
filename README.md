@@ -15,5 +15,5 @@ Data structures based project programmed in c language. Inspired from the idea o
 <br>
 <br>
 ## **ADD EVENT**
-![image](![image](https://github.com/kush1912/calendar-management/blob/master/CALENDAR%20MANAGEMENT/ad.png)
+![image](https://github.com/kush1912/calendar-management/blob/master/CALENDAR%20MANAGEMENT/ad.png)
 
