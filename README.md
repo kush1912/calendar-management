@@ -10,10 +10,10 @@ Data structures based project programmed in c language. Inspired from the idea o
 ![image](https://github.com/kush1912/calendar-management/blob/master/CALENDAR%20MANAGEMENT/calendar.png)
 <br>
 <br>
-##**EVENTS**
+## **EVENTS**
 ![image](https://github.com/kush1912/calendar-management/blob/master/CALENDAR%20MANAGEMENT/events.png)
 <br>
 <br>
-##**ADD EVENT**
+## **ADD EVENT**
 ![image](![image](https://github.com/kush1912/calendar-management/blob/master/CALENDAR%20MANAGEMENT/ad.png)
 
